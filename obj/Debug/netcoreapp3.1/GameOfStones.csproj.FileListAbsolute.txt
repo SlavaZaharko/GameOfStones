@@ -1,0 +1,13 @@
+D:\учеба\Had\GameOfStones\GameOfStones\bin\Debug\netcoreapp3.1\GameOfStones.exe
+D:\учеба\Had\GameOfStones\GameOfStones\bin\Debug\netcoreapp3.1\GameOfStones.deps.json
+D:\учеба\Had\GameOfStones\GameOfStones\bin\Debug\netcoreapp3.1\GameOfStones.runtimeconfig.json
+D:\учеба\Had\GameOfStones\GameOfStones\bin\Debug\netcoreapp3.1\GameOfStones.runtimeconfig.dev.json
+D:\учеба\Had\GameOfStones\GameOfStones\bin\Debug\netcoreapp3.1\GameOfStones.dll
+D:\учеба\Had\GameOfStones\GameOfStones\bin\Debug\netcoreapp3.1\GameOfStones.pdb
+D:\учеба\Had\GameOfStones\GameOfStones\obj\Debug\netcoreapp3.1\GameOfStones.csprojAssemblyReference.cache
+D:\учеба\Had\GameOfStones\GameOfStones\obj\Debug\netcoreapp3.1\GameOfStones.csproj.CoreCompileInputs.cache
+D:\учеба\Had\GameOfStones\GameOfStones\obj\Debug\netcoreapp3.1\GameOfStones.AssemblyInfoInputs.cache
+D:\учеба\Had\GameOfStones\GameOfStones\obj\Debug\netcoreapp3.1\GameOfStones.AssemblyInfo.cs
+D:\учеба\Had\GameOfStones\GameOfStones\obj\Debug\netcoreapp3.1\GameOfStones.dll
+D:\учеба\Had\GameOfStones\GameOfStones\obj\Debug\netcoreapp3.1\GameOfStones.pdb
+D:\учеба\Had\GameOfStones\GameOfStones\obj\Debug\netcoreapp3.1\GameOfStones.genruntimeconfig.cache
